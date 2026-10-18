@@ -1,0 +1,16 @@
+customer_id,age,monthly_bill,tenure,city
+1001,25,45.5,12,Dhaka
+1002,31,60.0,24,Chattogram
+1003,,52.0,18,Sylhet
+1004,44,9999.0,5,Dhaka
+1005,29,48.0,36,Rajshahi
+1006,35,55.0,22,Khulna
+1007,35,55.0,22,Khulna
+1008,27,,8,Dhaka
+1009,41,63.0,48,Barishal
+1010,33,51.0,17,Rangpur
+1011,30,49.0,14,Dhaka
+1012,39,58.0,28,Chattogram
+1013,22,42.0,6,Sylhet
+1014,46,70.0,54,Rajshahi
+1015,28,47.0,11,Khulna
